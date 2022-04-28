@@ -1,0 +1,10 @@
+title: "Some weird title, I'm not sure were this should be"
+author: Alejandro
+email: canceloalejandro@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Ok so, this site is just for me to learn about gihub pages, I'd like to create my own webportfolio and 
+  I'm eager to learn more
+
+# social links
+github_username:  AlexCco # DO NOT include the @ character, or else the build will fail!
+show_excerpts: true # set to false to remove excerpts on the homepage
